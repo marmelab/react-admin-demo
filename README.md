@@ -1,1 +1,11 @@
-# react-admin-demo
+# React-Admin Demo
+
+This is a demo of the [react-admin](https://github.com/marmelab/react-admin) library for React.js. It creates a working administration for a fake poster shop named Posters Galore. You can test it online at https://marmelab.com/react-admin-demo.
+
+[![admin-on-rest-demo](https://marmelab.com/admin-on-rest/img/admin-on-rest-demo-still.png)](https://vimeo.com/205118063)
+
+React-admin usually requires a REST server to provide data. In this demo however, the REST server is simulated by the browser (using [FakeRest](https://github.com/marmelab/FakeRest)). 
+
+The source code is available in the main marmelab/react-admin repository, under [examples/demo/](https://github.com/marmelab/react-admin/tree/master/examples/demo). To explore it, start with [src/index.js](https://github.com/marmelab/react-admin/blob/master/examples/demo/src/index.js).
+
+This repository only contains the compiled code served by the GitHub CDN at https://marmelab.com/admin-on-rest-demo. You can find this production code in the `gh-pages` branch of this repository.
