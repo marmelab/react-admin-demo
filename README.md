@@ -31,9 +31,3 @@ the company’s web trading platform.
 
 - Spent 1300+ hours mastering a​lgorithms, data structures, and full-stack development while simultaneously developing projects in Ruby, Rails, Javascript, React, and Redux.
 - Developed skills in remote pair-programming, using Github, industry-standard git flows, and daily standups to communicate and collaborate with international remote deve​ lopers.
-
-## Credits
-
-  This personal portfolio project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the [Agency](https://startbootstrap.com/template-overviews/agency/) theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/LICENSE)
