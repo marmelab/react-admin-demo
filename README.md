@@ -1,11 +1,39 @@
-# React-Admin Demo
+# Terver Stephen Aosu
 
-This is a demo of the [react-admin](https://github.com/marmelab/react-admin) library for React.js. It creates a working administration for a fake poster shop named Posters Galore. You can test it online at https://marmelab.com/react-admin-demo.
+## Full Stack Ruby on Rails/ React Developer
 
-[![admin-on-rest-demo](https://camo.githubusercontent.com/8f45adbef8ce38b97bbf6e5492da0685d4d273d4/68747470733a2f2f6d61726d656c61622e636f6d2f72656163742d61646d696e2f696d672f72656163742d61646d696e2d64656d6f2d7374696c6c2e706e67)](https://vimeo.com/268958716)
+>[Portfolio](https://my-website.terveraosu.now.sh/) | [LinkedIn](https://www.linkedin.com/in/terver-aosu/) | [Stackoverflow](https://stackoverflow.com/story/truetechcode) | [GitHub](https://github.com/truetechcode/) | [Twitter](https://twitter.com/truetech_code)
 
-React-admin usually requires a REST server to provide data. In this demo however, the REST server is simulated by the browser (using [FakeRest](https://github.com/marmelab/FakeRest)). 
+## `Summary`
 
-The source code is available in the main marmelab/react-admin repository, under [examples/demo/](https://github.com/marmelab/react-admin/tree/master/examples/demo). To explore it, start with [src/index.js](https://github.com/marmelab/react-admin/blob/master/examples/demo/src/index.js).
+> I am a Full Stack developer working with React and Ruby on Rails, I am a fast learner and adaptable, 
+I have worked with teams both physically and remotely and I am a good collaborator.
+I have written amazing code and use great tools to boost collaboration and productivity.
+I am ready to work and I will stop at nothing to push the growth of your organization.
 
-This repository only contains the compiled code served by the GitHub CDN at https://marmelab.com/admin-on-rest-demo. You can find this production code [in the `gh-pages` branch](https://github.com/marmelab/react-admin-demo/tree/gh-pages) of this repository.
+## `Skills`
+
+> JavaScript (ES5/ES6), Ruby, HTML, CSS, Ruby on Rails, React/Redux, jQuery, Bootstrap, Node, SQL, PostgreSQL, MySQL, RSpec, Jest, Git, GitHub, Webpack, Heroku, ZEIT, Slack, Zoom.
+
+## `Experience`
+
+> **JPMorgan Chase & Co.** ​Software Engineering Intern *2019*
+- Worked on three tasks to fix bugs on a Python Script and React app of
+the company’s web trading platform.
+
+> **Tivkpaa Modern Technologies Nig. Ltd** ​ Trainer, Web Developer and IT Technician. *2017 - 2019*
+- I build the company website and was sole responsible for conducting maintenance on company I.T equipment.
+- I conducted trainings for more than 10 trainees.
+
+## `Education`
+
+> **Microverse**​ Certificate in Software Development *2019*
+
+- Spent 1300+ hours mastering a​lgorithms, data structures, and full-stack development while simultaneously developing projects in Ruby, Rails, Javascript, React, and Redux.
+- Developed skills in remote pair-programming, using Github, industry-standard git flows, and daily standups to communicate and collaborate with international remote deve​ lopers.
+
+## Credits
+
+  This personal portfolio project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the [Agency](https://startbootstrap.com/template-overviews/agency/) theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/LICENSE)
