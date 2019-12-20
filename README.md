@@ -1,6 +1,6 @@
 # Terver Stephen Aosu
 
-[![terver-stephen-aosu](https://terveraosu.now.sh/static/media/1.e187e5da.jpg)](https://terveraosu.now.sh)
+[![terver-stephen-aosu](https://terveraosu.now.sh/static/media/1.9687e021.jpg)](https://terveraosu.now.sh)
 
 ## Full Stack Ruby on Rails/ React Developer
 
