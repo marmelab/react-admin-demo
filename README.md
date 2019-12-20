@@ -1,5 +1,7 @@
 # Terver Stephen Aosu
 
+[![terver-stephen-aosu](https://terveraosu.now.sh/static/media/1.e187e5da.jpg)](https://terveraosu.now.sh)
+
 ## Full Stack Ruby on Rails/ React Developer
 
 >[Portfolio](https://my-website.terveraosu.now.sh/) | [LinkedIn](https://www.linkedin.com/in/terver-aosu/) | [Stackoverflow](https://stackoverflow.com/story/truetechcode) | [GitHub](https://github.com/truetechcode/) | [Twitter](https://twitter.com/truetech_code)
