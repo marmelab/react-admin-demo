@@ -1,0 +1,1 @@
+/*! http://mths.be/endswith v0.2.0 by @mathias */
