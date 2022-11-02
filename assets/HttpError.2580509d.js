@@ -1,0 +1,2 @@
+var a=Object.defineProperty;var s=(c,t)=>a(c,"name",{value:t,configurable:!0});class r extends Error{constructor(t,o,e=null){super(t),this.message=t,this.status=o,this.body=e,Object.setPrototypeOf(this,r.prototype),this.name=this.constructor.name,typeof Error.captureStackTrace=="function"?Error.captureStackTrace(this,this.constructor):this.stack=new Error(t).stack,this.stack=new Error().stack}}s(r,"HttpError");const n=r;export{n as H};
+//# sourceMappingURL=HttpError.2580509d.js.map
