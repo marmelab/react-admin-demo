@@ -8,4 +8,4 @@ React-admin usually requires a REST server to provide data. In this demo however
 
 The source code is available in the main marmelab/react-admin repository, under [examples/demo/](https://github.com/marmelab/react-admin/tree/master/examples/demo). To explore it, start with [src/index.tsx](https://github.com/marmelab/react-admin/blob/master/examples/demo/src/index.tsx).
 
-This repository only contains the compiled code served by the GitHub CDN at https://marmelab.com/admin-on-rest-demo. You can find this production code [in the `gh-pages` branch](https://github.com/marmelab/react-admin-demo/tree/gh-pages) of this repository.
+This repository only contains the compiled code served by the GitHub CDN at https://marmelab.com/react-admin-demo. You can find this production code [in the `gh-pages` branch](https://github.com/marmelab/react-admin-demo/tree/gh-pages) of this repository.
