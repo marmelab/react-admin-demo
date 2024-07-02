@@ -2,7 +2,7 @@
 
 This is a demo of the [react-admin](https://github.com/marmelab/react-admin) library for React.js. It creates a working administration for a fake poster shop named Posters Galore. You can test it online at https://marmelab.com/react-admin-demo.
 
-[![admin-on-rest-demo](https://camo.githubusercontent.com/8f45adbef8ce38b97bbf6e5492da0685d4d273d4/68747470733a2f2f6d61726d656c61622e636f6d2f72656163742d61646d696e2f696d672f72656163742d61646d696e2d64656d6f2d7374696c6c2e706e67)](https://vimeo.com/268958716)
+[![admin-on-rest-demo](https://marmelab.com/react-admin/img/demo-ecommerce-oss.png)](https://vimeo.com/268958716)
 
 React-admin usually requires a REST server to provide data. In this demo however, the REST server is simulated by the browser (using [FakeRest](https://github.com/marmelab/FakeRest)). 
 
